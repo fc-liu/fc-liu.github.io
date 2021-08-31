@@ -12,7 +12,7 @@ title: Fangchao Liu
 author: Fangchao Liu
 
 # --- List of links in the navigation bar --- #
-
+ 
 navbar-links:
   About Me: "aboutme"
   Publications: ""
@@ -231,7 +231,7 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
+#   - jekyll-paginate
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
