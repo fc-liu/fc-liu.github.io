@@ -43,9 +43,9 @@ social-network-links:
   email: "fangchao2017@iscas.ac.cn"
 #   facebook: deanattali
   github: "https://github.com/fc-liu"
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#   twitter: daattali
+#   patreon: DeanAttali
+#   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -71,11 +71,11 @@ rss-description: This website is a virtual proof that I'm awesome
 # --- General options --- #
 
 # Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+# share-links-active:
+#   twitter: true
+#   facebook: true
+#   linkedin: true
+#   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
