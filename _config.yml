@@ -14,8 +14,8 @@ author: Fangchao Liu
 # --- List of links in the navigation bar --- #
   
 navbar-links:
-  About Me: "aboutme"
-  Publications: ""
+  About Me: "#aboutme"
+  Publications: "#pub"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
